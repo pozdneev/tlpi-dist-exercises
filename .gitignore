@@ -1,4 +1,7 @@
 *.a
 *.o
 
+*~
+*.un~
+
 lib/ename.c.inc
